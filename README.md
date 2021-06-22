@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+
+# Pwxelate React
+![Pwxelate React](https://pixelate-c957a.web.app/favicon.ico)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
